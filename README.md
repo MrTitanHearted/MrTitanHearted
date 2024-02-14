@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrTitanHearted
-- 👀 I’m interested in Computer Graphics and Server Backend
-- 🌱 I’m currently learning Graphics Programming with Rust language
-- 💞️ I’m looking to collaborate on anybody who has interest in my projects
+- 👀 I’m interested in Computer Graphics
+- 🌱 I’m currently learning Graphics Programming with Rust and C++
+- 💞️ I’m looking to collaborate with anybody who is interested in my projects
 - 📫 How to reach me abduqodirovmuhammadhon@outlook.com
 
 <!---
